@@ -2,11 +2,16 @@
 
 **A Day in the Life** is a one-minute interactive narrative game exploring the emotional challenges and everyday chaos faced by a single immigrant mother trying to navigate city life without a safety net.
 
+![Game screenshot](https://raw.githubusercontent.com/lusikem/A-Day-in-the-Life-Game/main/A%20Day%20in%20the%20Life.%20Game%20image.png)
+
+
 Built using **Twine** and the **SugarCube** story format, the game invites players to experience not just the decisions, but the emotional weight behind them.
 
 ## Play the Game
 
+Play it online via [GitHub Pages](https://lusikem.github.io/A-Day-in-the-Life-Game/)  
 Play it online via [Itch.io](https://lumuk.itch.io/a-day-in-the-life)
+
 
 ## Concept
 
