@@ -33,7 +33,7 @@ The game explores:
 
 This repository includes:
 
-- `index.html` — the full Twine game file (exported from Twine with SugarCube)
+- `index.html` — the full Twine game file (exported from Twine)
 - (Optional) `assets/` — directory for images, audio, or future assets
 
 ## How to Run Locally
